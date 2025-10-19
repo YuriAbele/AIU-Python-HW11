@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 from tests import test_nested_imports
 
 SPLIT_LINE = "\n" + "#" * 100 + "\n"
