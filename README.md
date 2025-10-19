@@ -4,3 +4,5 @@
 2. Для VSCode настроен (**``\\.vscode\\launch.json``**) автозапуск этого **``main.py``**
 3. Вот дерево файлов:<br/>
   ![files tree](files_tree.png)
+4. Результат выполнения:<br/>
+  ![run result](run_result.png)
